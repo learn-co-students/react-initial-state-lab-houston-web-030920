@@ -33,7 +33,7 @@ we'll just focus on setting up the initial state of the slider.
 2.  It should only render out the text `'I am on slide <CURRENT_SLIDE>'`, where
     `<CURRENT_SLIDE>` is the value of `this.state.currentSlideIndex`.
 
-## A bomb timer
+## A bomb timerl
 
 Take a moment to think about what a bomb does and how it works. Don't get all
 into the nitty gritty — what we're going to focus on right now is the _timer_.
